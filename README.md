@@ -8,4 +8,8 @@ https://drive.google.com/drive/folders/1magBWZ9UYdASis7EFF-sOELG29a3_rUo?usp=sha
 ![Output File Image](gun.jpg)
 
 
-![Output File Image](out.jpg)
+![Output File Image](download.jpg)
+
+![Output File Image](download (1).jpg)
+
+
