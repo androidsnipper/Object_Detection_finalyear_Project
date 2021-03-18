@@ -3,4 +3,4 @@ Final year project made using transfer learning(Deep Learning) to detect and cla
 
 
 
-![Output File Image](http://url/to/img.png)
+![Output File Image](gun.jpg)
